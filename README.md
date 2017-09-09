@@ -1,4 +1,5 @@
-#Proof of concept
+
+##Proof of concept
 
 Chat server with Ethereum Wallet Based Message signing and validation.
 
