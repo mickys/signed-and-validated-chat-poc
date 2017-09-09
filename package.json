@@ -1,0 +1,17 @@
+{
+  "name": "signed-and-validated-chat-poc",
+  "version": "0.0.1",
+  "description": "Chat server with Ethereum Wallet Based Message signing and validation.",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "browserify -t brfs client.js -o bundle.js"
+  },
+  "dependencies": {
+    "ethereumjs-util": "^5.1.2",
+    "ethjs": "^0.2.8",
+    "express": "^4.15.4",
+    "socket.io": "^2.0.3",
+    "brfs": "^1.4.3"
+  }
+}
