@@ -1,7 +1,5 @@
 
-##Proof of concept
-
-Chat server with Ethereum Wallet Based Message signing and validation.
+Proof of concept - Chat server with Ethereum Wallet Based Message signing and validation.
 
 Uses Socket.IO and depends on MetaMask
 
